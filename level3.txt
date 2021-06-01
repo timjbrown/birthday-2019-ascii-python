@@ -1,0 +1,19 @@
+           HHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+***************************************************
+*      b      |                     |      b      *
+*             |                     |             *
+*      Q      A          P          A      Q      *
+*             |                     |             *
+*   HHHHHHH   |                     |   HHHHHHH   *
+*============<           a           >============*
+*      b      |                     |WWWW  b  WWWW*
+*             |                     |WWW       WWW*
+*      Q      A                     A      Q   WWW*
+*             |                     |WWW       WWW*
+*   HHHHHHH   |                     |WWWHHHHHHHWWW*
+***********************--B--************************
+                     |       |
+                     |   E   |
+                     |       |
+                     '======='
